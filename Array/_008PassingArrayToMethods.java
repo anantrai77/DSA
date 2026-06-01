@@ -1,5 +1,5 @@
 public class _008PassingArrayToMethods {
-    public static void change(int[] y){
+    public static void change(int[] y){//int [] y --> reference variable
         y[2]=99;
     }
     public static void main(String[] args) {
