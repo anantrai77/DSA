@@ -1,6 +1,6 @@
 public class _012TwoSum {
     public static void main(String[] args) {
-        int arr[] = {2, 7, 11, 15};
+        int arr[] = {-2, 3, 11, 15};
         int target = 9;
 
         System.out.println(twoSum(arr, target));
